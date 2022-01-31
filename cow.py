@@ -1,5 +1,5 @@
 def moo():
-	print('MOO.')
+	print('MOO!')
 
 if __name__ == '__main__':
 	moo()
