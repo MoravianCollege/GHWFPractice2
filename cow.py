@@ -1,5 +1,8 @@
 def moo():
-	for i in range(10):
+	"""
+	Makes cow sound.
+	"""
+	for i in range(100):
 		print('MOO!')
 
 if __name__ == '__main__':
