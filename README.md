@@ -1,3 +1,6 @@
-# GHWFPractice2
-(*^*) This is how I feel.
-some change
+# GHWFPractice2some change
+Contributers:
+Shane Houghton
+Richie Glennon
+Eric Gorski
+Michael Marchese
